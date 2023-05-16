@@ -1,4 +1,5 @@
-<p align="center"><h1>🦜️ Awesome Langchain Agents</h1></p>
+# 🦜️🔗 Awesome Langchain Agents
+> Curated list of agents built on LangChain.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Steamship](https://raw.githubusercontent.com/steamship-core/python-client/main/badge.svg)](https://www.steamship.com/build?utm_source=github&utm_medium=badge&utm_campaign=awesome_langchain_agents&utm_id=awesome_langchain_agents)
 
