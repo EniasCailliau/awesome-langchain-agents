@@ -25,7 +25,7 @@ In a perfect world, every brilliant LangChain agent would make it to production,
 - [PyCodeAGI](https://github.com/chakkaradeep/pyCodeAGI): A small AGI experiment to generate a Python app given what app the user wants to build ![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)
 - [BabyAGI UI](https://github.com/miurla/babyagi-ui): Make it easier to run and develop with babyagi in a web app, like a ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)
 
-## Closed Source 
+### Closed Source 
 
 - [MemoryGPT](https://memorygpt.io/): ChatGPT, but with long term memory.
 
