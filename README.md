@@ -27,7 +27,7 @@ In a perfect world, every brilliant LangChain agent would make it to production,
 
 ## Closed Source 
 
-- [[MemoryGPT]](https://memorygpt.io/): ChatGPT, but with long term memory.
+- [MemoryGPT](https://memorygpt.io/): ChatGPT, but with long term memory.
 
 
 ## How to Contribute
