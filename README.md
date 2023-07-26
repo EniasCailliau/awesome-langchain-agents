@@ -28,7 +28,7 @@ In a perfect world, every brilliant LangChain agent would make it to production,
 ### Closed Source 
 
 - [MemoryGPT](https://memorygpt.io/): ChatGPT, but with long term memory.
-
+- [PDFAgent](https://github.com/mr-gpt/PDFAgent): PDFAgent🕵️ will read any PDF (including handwritten/scanned ones), analyze, summarize, provide insight and cite references and sources in its responses. This agent also comes with a MixPanel-like observability dashboard so you can monitor what goes in and what comes out.
 
 ## How to Contribute
 We welcome contributions from everyone, whether you're a seasoned developer or a newbie just getting started.
