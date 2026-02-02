@@ -24,6 +24,7 @@ In a perfect world, every brilliant LangChain agent would make it to production,
 - [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 - [PyCodeAGI](https://github.com/chakkaradeep/pyCodeAGI): A small AGI experiment to generate a Python app given what app the user wants to build ![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)
 - [BabyAGI UI](https://github.com/miurla/babyagi-ui): Make it easier to run and develop with babyagi in a web app, like a ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)
+- [AgentFund](https://github.com/RioBot-Grind/agentfund): Decentralized crowdfunding for AI agents with milestone-based escrow on Base ![GitHub Repo stars](https://img.shields.io/github/stars/RioBot-Grind/agentfund?style=social)
 
 ### Closed Source 
 
